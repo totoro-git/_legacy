@@ -1,7 +1,22 @@
-[
-  {
-    "Legacy": "Adam_Sempler",
-    "Legacy": "Luiz_Gold",
-    "Legacy": "Serhiy_Rubin"
-    }
+{
+"Legacy": [
+"Serhiy_Rubin",
+"Luis_Gold",
+"Adam_Sempler"
+],
+"Server02": [
+"Serhiy_Rubin",
+"Luis_Gold",
+"Adam_Sempler"
+],
+"Classic": [
+"Serhiy_Rubin",
+"Luis_Gold",
+"Adam_Sempler"
+],
+"Revolution": [
+"Serhiy_Rubin",
+"Luis_Gold",
+"Adam_Sempler"
 ]
+}
